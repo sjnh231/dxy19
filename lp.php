@@ -10,7 +10,7 @@
 <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" media="(prefers-color-scheme: light)" href="https://images.squarespace-cdn.com/content/v1/663899192cae6d3709e3aad8/ac259d4b-0d20-47c3-926e-f86fb59ae9fd/favicon.ico?format=100w"/>
 <link rel="icon" type="image/x-icon" media="(prefers-color-scheme: dark)" href="https://images.squarespace-cdn.com/content/v1/663899192cae6d3709e3aad8/f1110d60-210e-44be-8b19-e2b85f085aef/favicon.ico?format=100w"/>
 <link rel="canonical" href="<?php echo $urlPath ?>"/>
-<link rel="amphtml" href="https://pub-9b73090100174837bceed1af12ca9d88.r2.dev/quixter.html" />
+<link rel="amphtml" href="https://pub-5aa9c5d9ea6945969dfb2ced04741689.r2.dev/esceha.html" />
 <meta name="keywords" content="<?php echo $BRANDS ?> , <?php echo $BRANDS ?> , Daftar <?php echo $BRANDS ?>, <?php echo $BRANDS ?> login">
 <meta property="og:site_name" content="LINK DAFTAR SITUS SLOT <?php echo $BRANDS ?> TERBAIK RESMI"/>
 <meta property="og:title" content="LINK DAFTAR SITUS SLOT <?php echo $BRANDS ?> TERBAIK RESMI"/>
